@@ -1,8 +1,7 @@
 package com.nyash.travellizer.travellizertripservice.model;
 
-import com.nyash.travellizer.common.model.entity.base.AbstractEntity;
+import com.nyash.travellizer.travellizercommon.model.entity.base.AbstractEntity;
 import lombok.Setter;
-
 import java.time.LocalDate;
 import java.time.LocalTime;
 
