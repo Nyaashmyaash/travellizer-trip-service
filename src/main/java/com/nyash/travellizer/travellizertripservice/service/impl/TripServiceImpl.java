@@ -1,8 +1,10 @@
 package com.nyash.travellizer.travellizertripservice.service.impl;
 
-import com.nyash.travellizer.model.entity.trip.Route;
-import com.nyash.travellizer.model.entity.trip.Trip;
-import com.nyash.travellizer.service.trip.TripService;
+
+
+import com.nyash.travellizer.travellizertripservice.model.Route;
+import com.nyash.travellizer.travellizertripservice.model.Trip;
+import com.nyash.travellizer.travellizertripservice.service.TripService;
 
 import java.time.LocalDate;
 import java.util.List;
